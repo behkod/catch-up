@@ -4,5 +4,5 @@ A Handbook/Cheat-sheet designed to help developers quickly catch up on programmi
 It's important to note that this repository should not be assumed to be a 101, tutorial, or step-by-step guide by any means.
 
 **Further Improvements**:
-- Perhaps we can create a time-based series of documentation. For instance, if you were familiar with JavaScript up until ES7 and then return to the technology in 2024, the documentation would guide you through the developments and changes that have occurred during your hiatus.
+- Perhaps we can create a time-based series of documentation. For instance, if you were familiar with JavaScript up until ES7 and then return to the technology in 2024, the documentation would guide you through the developments and changes that have occurred during your hiatus. It's important to emphasize that this feature should not act as a simple series of changelogs, but to include all the related developments in related technologies (new features in browsers, web standards, execution engines, frameworks...)
 
